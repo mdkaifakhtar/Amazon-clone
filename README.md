@@ -1,6 +1,6 @@
 # 🛒 Amazon Clone (Static UI)
 live demo:
--> ()
+-> (https://mdkaifakhtar.github.io/Amazon-clone/)
 📌 Project Description
 
 This is a static clone of the Amazon.in homepage, built using HTML and CSS. It includes multiple sections such as navigation, search bar, product categories, promotional boxes, and footer, mimicking the real Amazon homepage. This project is a UI layout only and does not include any functionality or responsiveness (not mobile-friendly).
